@@ -1,4 +1,4 @@
-<img src="/me.png" alt="me" />
+### Welcome to my GitHub ✌
 
-### Hello ✌
 
+![mystats](https://github-readme-stats.vercel.app/api?username=zararthustra&theme=merko&show_icons=true&hide=stars,prs,issues)
