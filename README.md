@@ -1,7 +1,7 @@
 # <div align="center"> Welcome to my GitHub ✌ </div>
 
 <div align="center">
-<img width="350" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zararthustra&theme=merko&layout=compact&hide=M,c%2B%2B">
+<img width="350" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zararthustra&theme=merko&layout=compact&hide=M,c%2B%2B,MATLAB">
 <img width="350" height="200" src="https://github-readme-stats.vercel.app/api?username=zararthustra&theme=merko&show_icons=true&hide=stars,prs,issues">
 </div>
 
