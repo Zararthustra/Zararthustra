@@ -20,7 +20,7 @@
   <a href="https://twitter.com/MayerArthur1">
     <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"/>
   </a>
-  <a href="https://twitter.com/MayerArthur1">
-     <img src=https://img.shields.io/badge/HBNB_(work_in_progress)-%23992929.svg?&style=for-the-badge&logo=airbnb&logoColor=white alt=hbnb style="margin-bottom: 5px;" />
+  <a href="http://arthurm.tech/404">
+     <img src=https://img.shields.io/badge/HBNB_(work_in_progress)-%23992929.svg?&style=for-the-badge&logo=airbnb&logoColor=white alt=hbnb style="margin-bottom: 1px;" />
   </a>
 </div>
