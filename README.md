@@ -8,7 +8,7 @@
 # <div align="center"> You can also find me here: </div>
 
 <div align="center">
-  <a href="http://arthurm.tech/404">
+  <a href="https://www.arthurm.tech/404">
      <img src=https://img.shields.io/badge/HBNB_(work_in_progress)-%23992929.svg?&style=for-the-badge&logo=airbnb&logoColor=white alt=hbnb" />
   </a>
   <a href="https://www.chess.com/member/zaarathustra" target="_blank">
