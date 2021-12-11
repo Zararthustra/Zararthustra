@@ -2,7 +2,7 @@
 
 <div align="center">
 <img width="290" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zararthustra&theme=merko&layout=compact&hide=M,Ruby,Puppet,c%2B%2B,MATLAB">
-<img width="450" height="170" src="https://github-readme-stats.vercel.app/api?username=zararthustra&theme=merko&show_icons=true&hide=stars,prs,issues">
+<img width="450" height="170" src="https://github-readme-stats.vercel.app/api?username=zararthustra&theme=merko&show_icons=true&include_all_commits=true&hide=stars,prs,issues">
 </div>
 
 # <div align="center"> My end-of-year Fullstack project:</div>
