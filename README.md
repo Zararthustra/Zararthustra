@@ -7,7 +7,7 @@
 
 # <div align="center">My last fullstack project:</div>
 
-<h1 align="center"><a href="https://checklist.arthurm.tech/" target="_blank">Record !t</a></h1>
+<h1 align="center"><a href="https://checklist.arthurm.tech/" target="_blank">Checklist</a></h1>
 
 # <div align="center"> You can also find me here: </div>
 
