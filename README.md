@@ -5,9 +5,9 @@
 <img width="450" height="170" src="https://github-readme-stats.vercel.app/api?username=zararthustra&theme=merko&show_icons=true&include_all_commits=true&hide=stars,prs,issues">
 </div>
 
-# <div align="center"> My end-of-year Fullstack project:</div>
+# <div align="center">My last fullstack project:</div>
 
-<h1 align="center"><a href="https://recordit.games/" target="_blank">Record !t</a></h1>
+<h1 align="center"><a href="https://checklist.arthurm.tech/" target="_blank">Record !t</a></h1>
 
 # <div align="center"> You can also find me here: </div>
 
