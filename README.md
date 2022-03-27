@@ -6,7 +6,7 @@
 </div>
 
 # <div align="center">My last fullstack project:</div>
-<h1 align="center"><a href="https://checklist.arthurm.tech/" target="_blank">Checklist</a></h1>
+<h1 align="center"><a href="https://lespopotes.arthurmayer.fr/" target="_blank">Les Popotes</a></h1>
 
 # <div align="center"> You can also find me here: </div>
 <div align="center">
