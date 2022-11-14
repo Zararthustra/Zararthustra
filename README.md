@@ -5,8 +5,8 @@
 <img width="450" height="170" src="https://github-readme-stats.vercel.app/api?username=zararthustra&theme=merko&show_icons=true&include_all_commits=true&hide=stars,prs,issues">
 </div>
 
-# <div align="center">My last fullstack project:</div>
-<h1 align="center"><a href="https://lespopotes.arthurmayer.fr/" target="_blank">Les Popotes</a></h1>
+# <div align="center">Check my portfolio:</div>
+<h1 align="center"><a href="https://arthurmayer.fr/" target="_blank">Portfolio</a></h1>
 
 # <div align="center"> You can also find me here: </div>
 <div align="center">
@@ -18,8 +18,5 @@
   </a> 
   <a href="https://www.linkedin.com/in/mayerarthur/" target="_blank">
     <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-  </a>
-  <a href="https://twitter.com/MayerArthur1">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"/>
   </a>
 </div>
