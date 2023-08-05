@@ -2,10 +2,9 @@
 
 <div align="center">
 <img width="290" height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zararthustra&theme=merko&layout=compact&hide=M,Ruby,Puppet,c%2B%2B,MATLAB">
-<img width="450" height="170" src="https://github-readme-stats.vercel.app/api?username=zararthustra&theme=merko&show_icons=true&include_all_commits=true&hide=stars,prs,issues,contribs">
 </div>
 
-<h1 align="center"><a href="https://arthurmayer.fr/" target="_blank">My Portfolio</a></h1>
+<h1 align="center"><a href="https://arthurmayer.fr/" target="_blank">Check my Portfolio</a></h1>
 
 <div align="center">
   <a href="https://www.chess.com/member/zaarathustra" target="_blank">
